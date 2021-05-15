@@ -1,2 +1,2 @@
 # datacademy
-repository for Datacademy proyects
+repository for Datacademy projects
